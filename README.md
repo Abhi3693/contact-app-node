@@ -7,4 +7,4 @@ This serverside web application is build using express.js
 3. can send OTP to selected contact
 4. See the list of all messages sent
 
-View:
+View: https://abhi3693-contact-app-react.netlify.app/
