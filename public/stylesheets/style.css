@@ -1,0 +1,12 @@
+.contact {
+  color: rgb(36, 126, 211);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1rem;
+}
+.form-control {
+  margin: 0;
+}
+li {
+  list-style: none;
+}
